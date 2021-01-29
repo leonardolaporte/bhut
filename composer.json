@@ -1,0 +1,22 @@
+{
+    "name": "leonardolaporte/bhut",
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "description": "",
+    "authors": [
+        {
+            "name": "Leonardo Laporte Neves",
+            "email": "leonardolaporte@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Multiples\\": "src/"
+        }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}

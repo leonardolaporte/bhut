@@ -1,6 +1,6 @@
 <?php
 
-namespace Multiples\Tests\Entities;
+namespace Multiples\Tests\Libraries;
 
 use PHPUnit\Framework\TestCase;
 use Multiples\Libraries\Multiples;
